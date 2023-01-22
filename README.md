@@ -33,7 +33,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 O Habits é um app para ajudar a rastrear os hábitos.
 
-- [Visite o projeto online] (https://Alanda-pac.github.io/NLWSetup-TrilhaExplorer)
+- [Visite o projeto online] (https://alanda-pac.github.io/NlWSetup-TrilhaExplorer/)
 
 
 ## 🔖 Layout
